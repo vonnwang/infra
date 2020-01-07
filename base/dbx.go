@@ -1,8 +1,8 @@
 package base
 
 import (
-	"git.imooc.com/wendell1000/infra"
-	"git.imooc.com/wendell1000/infra/logrus"
+	"github.com/vonnwang/infra"
+	"github.com/vonnwang/infra/logrus"
 	_ "github.com/go-sql-driver/mysql"
 	log "github.com/sirupsen/logrus"
 	"github.com/tietang/dbx"

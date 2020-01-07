@@ -1,7 +1,7 @@
 package base
 
 import (
-	"git.imooc.com/wendell1000/infra"
+	"github.com/vonnwang/infra"
 	log "github.com/sirupsen/logrus"
 	"os"
 	"os/signal"

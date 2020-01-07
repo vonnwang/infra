@@ -3,7 +3,7 @@ package httpclient
 import (
 	"bytes"
 	"errors"
-	"git.imooc.com/wendell1000/infra/lb"
+	"github.com/vonnwang/infra/lb"
 	"io"
 	"io/ioutil"
 	"net/http"

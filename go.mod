@@ -1,4 +1,4 @@
-module git.imooc.com/wendell1000/infra
+module github.com/vonnwang/infra
 
 go 1.12
 

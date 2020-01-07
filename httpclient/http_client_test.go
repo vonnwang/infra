@@ -1,7 +1,7 @@
 package httpclient
 
 import (
-	"git.imooc.com/wendell1000/infra/lb"
+	"github.com/vonnwang/infra/lb"
 	. "github.com/smartystreets/goconvey/convey"
 	"github.com/tietang/go-eureka-client/eureka"
 	"github.com/tietang/props/ini"

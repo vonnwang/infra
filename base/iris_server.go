@@ -1,7 +1,7 @@
 package base
 
 import (
-	"git.imooc.com/wendell1000/infra"
+	"github.com/vonnwang/infra"
 	"github.com/kataras/iris"
 	"github.com/kataras/iris/middleware/logger"
 	irisrecover "github.com/kataras/iris/middleware/recover"

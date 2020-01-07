@@ -2,7 +2,7 @@ package gorpc
 
 import (
 	"errors"
-	"git.imooc.com/wendell1000/infra/lb"
+	"github.com/vonnwang/infra/lb"
 	"github.com/sirupsen/logrus"
 	"net/rpc"
 )

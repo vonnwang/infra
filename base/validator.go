@@ -1,7 +1,7 @@
 package base
 
 import (
-	"git.imooc.com/wendell1000/infra"
+	"github.com/vonnwang/infra"
 	"github.com/go-playground/locales/zh"
 	"github.com/go-playground/universal-translator"
 	log "github.com/sirupsen/logrus"
